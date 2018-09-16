@@ -15,36 +15,13 @@
       },
       "oauth_client": [
         {
-          "client_id": "1057981706443-303k5b2mkrl3jd7avkklnd338jnatito.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCt9yIjzmKz4wHmqcoAgENWJGZmMdGtQNA"
-        }
-      ],
-      "services": {
-        "analytics_service": {
-          "status": 1
+          "client_id": "1057981706443-ac0ok4i2uud0vncvtcq0u8qvramppnpq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mittens.mit.aid1",
+            "certificate_hash": "22249458bf6459c6afdaa7116ae6b8671d6eb9d8"
+          }
         },
-        "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:1057981706443:android:7f170397563ee689",
-        "android_client_info": {
-          "package_name": "om.mittens.mit.aid1"
-        }
-      },
-      "oauth_client": [
         {
           "client_id": "1057981706443-303k5b2mkrl3jd7avkklnd338jnatito.apps.googleusercontent.com",
           "client_type": 3
@@ -60,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057981706443-303k5b2mkrl3jd7avkklnd338jnatito.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
